@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde: que escrevi meu primeiro "Hello, World!"<br>📚 Atualmente aprendendo: Desenvolvimento web e mobile com JavaScript, React e Next.js<br>🎯 Objetivos: Me tornar um desenvolvedor full-stack e criar soluções digitais com impacto<br>🎲 Curiosidade: Sou apaixonado por futebol e sempre que posso estou jogando uma pelada com os amigos ⚽</p>
+<p align="left">✨ Criando bugs desde: que escrevi meu primeiro "Hello, World!"<br>📚 Atualmente aprendendo: Desenvolvimento web e mobile com JavaScript, React e Next.js<br>🎯 Objetivos: Me tornar um desenvolvedor full-stack e criar soluções digitais com impacto<br>🎲 Curiosidade: Sou apaixonado por futebol ⚽</p>
 
 ###
 
